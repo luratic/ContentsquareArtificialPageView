@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/contentsquare-artificial-pageview/"
+versions:
+  - sha: a3eb5ee361cf356627f1baaa8ee6f69099b67f8f
+    changeNotes: Initial release
